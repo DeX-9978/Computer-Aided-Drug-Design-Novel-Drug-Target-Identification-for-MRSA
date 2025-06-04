@@ -27,7 +27,7 @@ A single cytoplasmic protein involved in a unique pathogen-specific metabolic pa
 
 ## 📄 Report
 
-The full report is available in [`report.pdf`](./report.pdf).
+The full report is available in [`report.pdf`](./Report.pdf).
 
 ## 👨‍🔬 Author
 
