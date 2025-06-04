@@ -33,3 +33,6 @@ The full report is available in [`report.pdf`](./Report.pdf).
 
 **Dinesh Davagandhi**  
 Bachelor’s in Bioinformatics, Management and Science University  
+---
+
+> _Note: This project was submitted as part of an undergraduate major project in Bioinformatics._
